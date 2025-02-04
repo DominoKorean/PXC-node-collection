@@ -1,6 +1,9 @@
 # PXC-node-collection
  A node collection created as a group node using a few simple nodes.
 
+### How do I use it?  
+Place all the files inside the ZIP file into the **collection** folder.
+
 <br>
 
 ## Normalmap Generator
