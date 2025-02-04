@@ -11,7 +11,7 @@ Generating a normal map.
 >
 > The **Normalmap Generator** node creates slopes only on the higher pixels when receiving a Height input, rather than between both high and low pixels.
 
-[![](https://img.shields.io/badge/Download-click-white?style=social-square)](https://github.com/DominoKorean/PXC-node-collection/raw/main/files/)
+[![](https://img.shields.io/badge/Download-click-white?style=social-square)](https://github.com/DominoKorean/PXC-node-collection/raw/refs/heads/main/PBR/Normalmap%20Generator/Normalmap%20generator.zip)
 
 <br>
 
@@ -20,3 +20,5 @@ Generating a normal map.
 This is an ambient occlusion generation node created with a simple structure using the **Blend** node and the **Blur** node.  
 
 It is useful for creating textures in the style shown in the image above.
+
+[![](https://img.shields.io/badge/Download-click-white?style=social-square)](https://github.com/DominoKorean/PXC-node-collection/raw/refs/heads/main/PBR/Pixel%20AO%20Generator/Pixel%20AO%20Generator.zip)
